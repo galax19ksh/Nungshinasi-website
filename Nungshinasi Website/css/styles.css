@@ -1,0 +1,107 @@
+.navbar-nav {
+    margin-left: 70%;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+
+}
+
+.container-fluid {
+    padding: 10px 50px 10px 50px;
+}
+
+.navbar-brand {
+    font-family: ubuntu;
+    color: #fff;
+    font-size: 2.5rem;
+}
+h1 {
+    font-family: Helvetica Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.5;
+    margin: 15px;
+}
+.buttons {
+    padding: 30px;
+
+}
+.row {
+    padding-left: 20px;
+}
+.navbar-brand {
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+.sushmita {
+    width: 50%;
+    transform: rotate(5deg);
+}
+.textbox {
+    padding-top: 10%;
+}
+#features {
+    padding: 9% 12%;
+}
+.feature-box {
+    text-align: center;
+}
+.icon {
+    color: #ea4f33;
+    
+}
+.icon:hover {
+    color: #ff4c68;
+}
+#testimonials {
+        padding: 7% 15%;
+        text-align: center;
+        background-color: #ea4f33;
+}
+.testimonail {
+    color: #fff;
+}
+.kaiku {
+    width: 20%;
+    border-radius: 90%;
+    margin: 20px;
+}
+.ending {
+    background-color: #ea4f33;
+    text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: ;
+    border-radius: 50%;
+  }
+
+  @media (max-width: 1030px) {
+    .sushmita {
+        transform: rotate(0);
+    }
+  }
+  .socials {
+    padding: 5px;
+  }
+  .fb:hover {
+    color: rgb(53, 53, 247);
+  }
+  .insta:hover {
+    color: rgb(239, 25, 64);
+  }
+  .twit:hover {
+    color: rgb(22, 171, 230);
+  }
+  .email:hover {
+    color: indigo;
+  }
+h3 {
+    color: #fff;
+}  
